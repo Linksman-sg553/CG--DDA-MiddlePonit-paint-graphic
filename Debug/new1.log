@@ -1,0 +1,21 @@
+﻿  new1.cpp
+D:\opengl学习\new1\new1\new1.cpp(32,6): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(33,6): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(44,15): warning C4244: “参数”: 从“GLfloat”转换到“GLint”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(108,27): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(108,17): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(109,27): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(109,17): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(110,27): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(110,17): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(111,27): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(111,17): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(112,27): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(112,17): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(113,27): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(113,17): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(114,27): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(114,17): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(115,27): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\opengl学习\new1\new1\new1.cpp(115,17): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+  new1.vcxproj -> D:\opengl学习\new1\Debug\new1.exe
